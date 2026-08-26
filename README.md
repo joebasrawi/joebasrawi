@@ -1,3 +1,5 @@
+<img src="./assets/profile-banner-v2.jpg" width="100%" alt="Joe Basrawi standing on a boat off the coast of Mykonos">
+
 # Joe Basrawi
 
 **Musician and software builder.**
