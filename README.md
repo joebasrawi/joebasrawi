@@ -12,7 +12,7 @@ Miami Beach, Florida
 
 ### Music
 
-I release house records and play live as **neshama**.
+**neshama**.
 
 ### Discography
 
