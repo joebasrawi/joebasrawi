@@ -10,15 +10,15 @@ I co-founded JBAB Holdings with [Ari Bradshaw](https://github.com/aribradshaw), 
 
 ### What I'm building
 
-**[Flow](https://flow.flygonlc.com)** · co-founder<br>
+<img src="./assets/logos/flow.svg" height="20" alt="">&nbsp;**[Flow](https://flow.flygonlc.com)** · co-founder<br>
 An open-source workspace: a mind map, a timeline and a DevOps board, where AI agents pick up cards like teammates. I built the [iPhone and iPad app](https://github.com/aribradshaw/flow/tree/main/apps/ios), the agent runner and API work. Built with Flygon LC.<br>
 <sub>Node.js · Postgres · MCP · SwiftUI · [source](https://github.com/aribradshaw/flow)</sub>
 
-**[Campaign Baby](https://campaign.baby)** · co-owner<br>
+<img src="./assets/logos/campaign-baby.svg" height="20" alt="">&nbsp;**[Campaign Baby](https://campaign.baby)** · co-owner<br>
 A campaign's whole field operation in one app: the voter map, walklists, phone banking and texting. [Try the demo](https://campaign-baby-demo-production.up.railway.app).<br>
 <sub>React · Node.js · Postgres · Capacitor</sub>
 
-**[OneProfileID](https://oneprofileid.com)** · iPhone app & integrations<br>
+<img src="./assets/logos/opid-icon.png" height="20" alt="">&nbsp;**[OneProfileID](https://oneprofileid.com)** · iPhone app & integrations<br>
 One account across a whole family of apps, with passkeys, pages, events, tickets and messages.<br>
 <sub>Node.js · Better Auth · OIDC · Passkeys · SwiftUI</sub>
 
@@ -26,21 +26,33 @@ One account across a whole family of apps, with passkeys, pages, events, tickets
 Ad tools for independent artists: see what your ad spend actually did and where the next dollar should go. I'm the first pilot, running it on my own releases.<br>
 <sub>Next.js · TypeScript · Postgres</sub>
 
-**[AuditBaby](https://joebasrawi.dev/projects/auditbaby)** · co-founder<br>
+<img src="./assets/logos/auditbaby.svg" height="20" alt="">&nbsp;**[AuditBaby](https://joebasrawi.dev/projects/auditbaby)** · co-founder<br>
 Finds the hours that don't add up across schedules, payroll and billing, with the receipts behind every flag.<br>
 <sub>TypeScript · Node.js</sub>
 
-**[Crosslist](https://joebasrawi.dev/projects/crosslist)**<br>
+<img src="./assets/logos/crosslist.svg" height="20" alt="">&nbsp;**[Crosslist](https://joebasrawi.dev/projects/crosslist)**<br>
 Share playlists across music apps. Send one link and your friend saves it in the app they already use.<br>
 <sub>SwiftUI · MusicKit · FastAPI</sub>
 
-**[Big Spoon Bakery](https://bigspoonbakery.com)**<br>
+<a href="https://bigspoonbakery.com"><img src="./assets/logos/big-spoon.webp" height="22" alt="Big Spoon Bakery"></a><br>
 I designed and built the website: custom cake requests, catering, a new menu every month, and an editor the bakery runs from a phone.<br>
 <sub>React · Vite · Supabase</sub>
 
 ### Open source
 
 I send fixes to tools I use: a standalone manuals viewer for [openDAW](https://github.com/andremichelle/openDAW/pull/370), configurable filesystem roots for [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2605), capability audit facts for [Apache Maka](https://github.com/apache/maka/pull/3815), a pandas index fix for [Great Expectations](https://github.com/fivetran/great_expectations/pull/12097), and Deep Research thinking time for [oracle](https://github.com/steipete/oracle/pull/404).
+
+### Latest from the dev log
+
+<!-- DEVLOG:START -->
+- [Closing the small holes in Flow's server](https://joebasrawi.dev/log/2026-11-23-flow-hardening/) <sub>Nov 23, 2026</sub>
+- [The board flickered, so I deleted a pager](https://joebasrawi.dev/log/2026-11-23-flow-ios-board-flicker/) <sub>Nov 23, 2026</sub>
+- [Nine TestFlight builds in one day](https://joebasrawi.dev/log/2026-11-23-opid-nine-builds/) <sub>Nov 23, 2026</sub>
+- [Resonant, back from a folder of unsaved work](https://joebasrawi.dev/log/2026-11-23-resonant-restart/) <sub>Nov 23, 2026</sub>
+- [Flow on my phone in two days](https://joebasrawi.dev/log/2026-11-22-flow-iphone-two-days/) <sub>Nov 22, 2026</sub>
+<!-- DEVLOG:END -->
+
+[More at joebasrawi.dev/log](https://joebasrawi.dev/log)
 
 ### Music
 
