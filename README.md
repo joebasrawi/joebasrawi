@@ -11,12 +11,12 @@ Based in Miami Beach. I co-founded JBAB Holdings with [Ari Bradshaw](https://git
 <!-- NOW:START -->
 - **[Big Spoon Bakery](https://joebasrawi.dev/projects/big-spoon)** · Live · <sub>yesterday</sub>
 - 🔒 Secret project #1156 · In the works · <sub>yesterday</sub>
-- **[Resonant](https://joebasrawi.dev/projects/resonant)** · Building · <sub>yesterday</sub>
-- 🔒 Secret project #6670 · In the works · <sub>2 days ago</sub>
-- **[Crosslist](https://joebasrawi.dev/projects/crosslist)** · Building · <sub>yesterday</sub>
-- **[OneProfileID](https://joebasrawi.dev/projects/opid)** · Live · <sub>yesterday</sub>
-- **[Flow for iPhone](https://joebasrawi.dev/projects/flow-ios)** · Beta · <sub>2 days ago</sub>
-- **[Flow](https://joebasrawi.dev/projects/flow)** · Building · <sub>yesterday</sub>
+- **[Resonant](https://joebasrawi.dev/projects/resonant)** · Building · <sub>2 days ago</sub>
+- 🔒 Secret project #6670 · In the works · <sub>yesterday</sub>
+- **[OneProfileID](https://joebasrawi.dev/projects/opid)** · Live · <sub>2 days ago</sub>
+- **[Flow for iPhone](https://joebasrawi.dev/projects/flow-ios)** · Beta · <sub>3 days ago</sub>
+- **[Flow](https://joebasrawi.dev/projects/flow)** · Building · <sub>2 days ago</sub>
+- 🔒 Secret project #3810 · In the works · <sub>2 days ago</sub>
 <!-- NOW:END -->
 
 <sub>Updated daily from [my Now page](https://joebasrawi.dev/now). Secret means it isn't mine to announce yet.</sub>
@@ -33,9 +33,6 @@ Based in Miami Beach. I co-founded JBAB Holdings with [Ari Bradshaw](https://git
 </p>
 <p>
   <a href="https://joebasrawi.dev/projects/auditbaby"><img src="./assets/cards/auditbaby.svg" width="49%" alt="AuditBaby"></a>
-  <a href="https://joebasrawi.dev/projects/crosslist"><img src="./assets/cards/crosslist.svg" width="49%" alt="Crosslist"></a>
-</p>
-<p>
   <a href="https://bigspoonbakery.com"><img src="./assets/cards/big-spoon.svg" width="49%" alt="Big Spoon Bakery"></a>
 </p>
 

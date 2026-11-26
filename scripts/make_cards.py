@@ -59,7 +59,6 @@ P = {"flow": ("Inter", 700, "Inter", "flow.svg", False),
      "opid": ("Source Sans 3", 800, "Source Sans 3", "opid-icon.png", False),
      "resonant": ("Manrope", 800, "DM Sans", None, False),
      "auditbaby": ("Bricolage Grotesque", 800, "Inter", "auditbaby.svg", False),
-     "crosslist": ("Nunito", 900, "Nunito", "crosslist.svg", False),
      "big-spoon": ("Fraunces", 800, "DM Sans", "big-spoon.png", True)}
 
 W, H, PAD = 600, 240, 32

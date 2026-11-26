@@ -5,6 +5,7 @@ from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 SITE = "https://joebasrawi.dev"
+HIDE = {"Crosslist"}  # projects kept off the profile
 
 
 def fetch(path):
@@ -36,7 +37,7 @@ def ago(day):
 
 
 def right_now():
-    items = json.loads(fetch("/now.json"))["items"][:8]
+    items = [i for i in json.loads(fetch("/now.json"))["items"] if i["name"] not in HIDE][:8]
     rows = []
     for i in items:
         name = f"**[{i['name']}]({i['url']})**" if i["url"] else f"🔒 {i['name']}"
