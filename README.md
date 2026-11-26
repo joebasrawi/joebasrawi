@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner-tahoe.jpg" width="100%" alt="Joe Basrawi sitting on the summit of Mount Tallac above Lake Tahoe">
+<img src="./assets/banner-tahoe-strip.jpg" width="100%" alt="Joe Basrawi sitting on the summit of Mount Tallac above Lake Tahoe">
 
 # Joe Basrawi
 
