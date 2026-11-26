@@ -23,37 +23,27 @@ Based in Miami Beach. I co-founded JBAB Holdings with [Ari Bradshaw](https://git
 
 ### What I'm building
 
-<img src="./assets/logos/flow.svg" height="20" alt="">&nbsp;**[Flow](https://flow.flygonlc.com)** · co-founder<br>
-An open-source workspace: a mind map, a timeline and a DevOps board, where AI agents pick up cards like teammates. I built the [iPhone and iPad app](https://github.com/aribradshaw/flow/tree/main/apps/ios), the agent runner and API work. Built with Flygon LC.<br>
-<sub>Node.js · Postgres · MCP · SwiftUI · [source](https://github.com/aribradshaw/flow)</sub>
+<p>
+  <a href="https://flow.flygonlc.com"><img src="./assets/cards/flow.svg" width="49%" alt="Flow"></a>
+  <a href="https://campaign.baby"><img src="./assets/cards/campaign-baby.svg" width="49%" alt="Campaign Baby"></a>
+</p>
+<p>
+  <a href="https://oneprofileid.com"><img src="./assets/cards/opid.svg" width="49%" alt="OneProfileID"></a>
+  <a href="https://joebasrawi.dev/projects/resonant"><img src="./assets/cards/resonant.svg" width="49%" alt="Resonant"></a>
+</p>
+<p>
+  <a href="https://joebasrawi.dev/projects/auditbaby"><img src="./assets/cards/auditbaby.svg" width="49%" alt="AuditBaby"></a>
+  <a href="https://joebasrawi.dev/projects/crosslist"><img src="./assets/cards/crosslist.svg" width="49%" alt="Crosslist"></a>
+</p>
+<p>
+  <a href="https://bigspoonbakery.com"><img src="./assets/cards/big-spoon.svg" width="49%" alt="Big Spoon Bakery"></a>
+</p>
 
-<img src="./assets/logos/campaign-baby.svg" height="20" alt="">&nbsp;**[Campaign Baby](https://campaign.baby)** · co-owner<br>
-A campaign's whole field operation in one app: the voter map, walklists, phone banking and texting. [Try the demo](https://campaign-baby-demo-production.up.railway.app).<br>
-<sub>React · Node.js · Postgres · Capacitor</sub>
-
-<img src="./assets/logos/opid-icon.png" height="20" alt="">&nbsp;**[OneProfileID](https://oneprofileid.com)** · iPhone app & integrations<br>
-One account across a whole family of apps, with passkeys, pages, events, tickets and messages.<br>
-<sub>Node.js · Better Auth · OIDC · Passkeys · SwiftUI</sub>
-
-**[Resonant](https://joebasrawi.dev/projects/resonant)** · co-founder<br>
-Ad tools for independent artists: see what your ad spend actually did and where the next dollar should go. I'm the first pilot, running it on my own releases.<br>
-<sub>Next.js · TypeScript · Postgres</sub>
-
-<img src="./assets/logos/auditbaby.svg" height="20" alt="">&nbsp;**[AuditBaby](https://joebasrawi.dev/projects/auditbaby)** · co-founder<br>
-Finds the hours that don't add up across schedules, payroll and billing, with the receipts behind every flag.<br>
-<sub>TypeScript · Node.js</sub>
-
-<img src="./assets/logos/crosslist.svg" height="20" alt="">&nbsp;**[Crosslist](https://joebasrawi.dev/projects/crosslist)**<br>
-Share playlists across music apps. Send one link and your friend saves it in the app they already use.<br>
-<sub>SwiftUI · MusicKit · FastAPI</sub>
-
-<a href="https://bigspoonbakery.com"><img src="./assets/logos/big-spoon.webp" height="22" alt="Big Spoon Bakery"></a><br>
-I designed and built the website: custom cake requests, catering, a new menu every month, and an editor the bakery runs from a phone.<br>
-<sub>React · Vite · Supabase</sub>
+<sub>Every project has its own page on [joebasrawi.dev/projects](https://joebasrawi.dev/projects).</sub>
 
 ### Open source
 
-I send fixes to tools I use: a standalone manuals viewer for [openDAW](https://github.com/andremichelle/openDAW/pull/370), configurable filesystem roots for [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2605), capability audit facts for [Apache Maka](https://github.com/apache/maka/pull/3815), a pandas index fix for [Great Expectations](https://github.com/fivetran/great_expectations/pull/12097), and Deep Research thinking time for [oracle](https://github.com/steipete/oracle/pull/404).
+[Flow](https://github.com/aribradshaw/flow) is open source, and I built its [iPhone and iPad app](https://github.com/aribradshaw/flow/tree/main/apps/ios). I also send fixes to tools I use: a standalone manuals viewer for [openDAW](https://github.com/andremichelle/openDAW/pull/370), configurable filesystem roots for [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2605), capability audit facts for [Apache Maka](https://github.com/apache/maka/pull/3815), a pandas index fix for [Great Expectations](https://github.com/fivetran/great_expectations/pull/12097), and Deep Research thinking time for [oracle](https://github.com/steipete/oracle/pull/404).
 
 ### Latest from the dev log
 
