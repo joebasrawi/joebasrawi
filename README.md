@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner-v2.jpg" width="100%" alt="Joe Basrawi standing on a boat off the coast of Mykonos">
+<img src="./assets/profile-banner-tahoe.jpg" width="100%" alt="Joe Basrawi sitting on the summit of Mount Tallac above Lake Tahoe">
 
 # Joe Basrawi
 
