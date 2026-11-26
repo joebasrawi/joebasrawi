@@ -1,12 +1,25 @@
+<img src="./assets/header.svg" width="100%" alt="Joe Basrawi: co-founder, builder, house music producer">
+
 <img src="./assets/banner-tahoe-strip.jpg" width="100%" alt="Joe Basrawi sitting on the summit of Mount Tallac above Lake Tahoe">
 
-# Joe Basrawi
-
-**Co-founder, builder and house music producer, based in Miami Beach.**
-
-I co-founded JBAB Holdings with [Ari Bradshaw](https://github.com/aribradshaw), and most of my days go into turning ideas into products people actually use. I also make house music as **neshama**.
+Based in Miami Beach. I co-founded JBAB Holdings with [Ari Bradshaw](https://github.com/aribradshaw), and most of my days go into turning ideas into products people actually use. I also make house music as **neshama**.
 
 **Site & dev log:** [joebasrawi.dev](https://joebasrawi.dev) · **Follow:** [Instagram](https://instagram.com/joebasrawi) · [X](https://x.com/joebasrawi)
+
+### Right now
+
+<!-- NOW:START -->
+- **[Big Spoon Bakery](https://joebasrawi.dev/projects/big-spoon)** · Live · <sub>yesterday</sub>
+- 🔒 Secret project #1156 · In the works · <sub>yesterday</sub>
+- **[Resonant](https://joebasrawi.dev/projects/resonant)** · Building · <sub>yesterday</sub>
+- 🔒 Secret project #6670 · In the works · <sub>2 days ago</sub>
+- **[Crosslist](https://joebasrawi.dev/projects/crosslist)** · Building · <sub>yesterday</sub>
+- **[OneProfileID](https://joebasrawi.dev/projects/opid)** · Live · <sub>yesterday</sub>
+- **[Flow for iPhone](https://joebasrawi.dev/projects/flow-ios)** · Beta · <sub>2 days ago</sub>
+- **[Flow](https://joebasrawi.dev/projects/flow)** · Building · <sub>yesterday</sub>
+<!-- NOW:END -->
+
+<sub>Updated daily from [my Now page](https://joebasrawi.dev/now). Secret means it isn't mine to announce yet.</sub>
 
 ### What I'm building
 
