@@ -9,14 +9,14 @@ Based in Miami Beach. I co-founded JBAB Holdings with [Ari Bradshaw](https://git
 ### Right now
 
 <!-- NOW:START -->
-- **[Big Spoon Bakery](https://joebasrawi.dev/projects/big-spoon)** · Live · <sub>yesterday</sub>
-- 🔒 Secret project #1156 · In the works · <sub>yesterday</sub>
-- **[Resonant](https://joebasrawi.dev/projects/resonant)** · Building · <sub>2 days ago</sub>
-- 🔒 Secret project #6670 · In the works · <sub>yesterday</sub>
-- **[OneProfileID](https://joebasrawi.dev/projects/opid)** · Live · <sub>2 days ago</sub>
-- **[Flow for iPhone](https://joebasrawi.dev/projects/flow-ios)** · Beta · <sub>3 days ago</sub>
-- **[Flow](https://joebasrawi.dev/projects/flow)** · Building · <sub>2 days ago</sub>
-- 🔒 Secret project #3810 · In the works · <sub>2 days ago</sub>
+- **[Big Spoon Bakery](https://joebasrawi.dev/projects/big-spoon)** · Live · <sub>2 days ago</sub>
+- 🔒 Secret project #1156 · In the works · <sub>2 days ago</sub>
+- **[Resonant](https://joebasrawi.dev/projects/resonant)** · Building · <sub>3 days ago</sub>
+- 🔒 Secret project #6670 · In the works · <sub>2 days ago</sub>
+- **[OneProfileID](https://joebasrawi.dev/projects/opid)** · Live · <sub>3 days ago</sub>
+- **[Flow for iPhone](https://joebasrawi.dev/projects/flow-ios)** · Beta · <sub>4 days ago</sub>
+- **[Flow](https://joebasrawi.dev/projects/flow)** · Building · <sub>3 days ago</sub>
+- 🔒 Secret project #3810 · In the works · <sub>3 days ago</sub>
 <!-- NOW:END -->
 
 <sub>Updated daily from [my Now page](https://joebasrawi.dev/now). Secret means it isn't mine to announce yet.</sub>
